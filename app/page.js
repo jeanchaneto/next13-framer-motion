@@ -9,7 +9,6 @@ const Page = () => (
       <About />
       <div className="gradient-03 z-0" />
       <Explore />
-      <h2>uhcvzeoiuvui</h2>
 
     </div>
     <div className="relative">
